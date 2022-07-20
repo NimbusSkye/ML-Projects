@@ -1,5 +1,4 @@
 # ML-Projects
-My ML Papers
 
 ![Neural Networks for Image Classification](https://github.com/NimbusSkye/ML-Projects/blob/main/mlp_paper.pdf)
 * Used TensorFlow and a multi-layer perceptron to vectorize and classify 70,000 images of clothing from Fashion-MNIST
